@@ -1,0 +1,20 @@
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    position: relative;
+    left: 25%;
+}
+.name{
+    /* height: 100px; */
+    width: 100px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
+td{
+    text-align: center;
+}

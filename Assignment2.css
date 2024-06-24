@@ -3,7 +3,7 @@ table,tr,th,td{
     border-collapse: collapse;
 }
 table{
-    position: relative;
+    margin: auto
     left: 25%;
 }
 .name{

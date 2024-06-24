@@ -16,5 +16,24 @@ img{
     margin: 10px;
 }
 td{
+    width: 80px;
+    height: 50px;
     text-align: center;
+}
+.end{
+    border: 1px solid white;
+}
+.main{
+    height: 35px;
+}
+.yellow{
+    background-color: yellow;
+}
+.gray{
+    width: 45px;
+    background-color: rgb(173, 173, 173);
+}
+.home{
+    background-color: lightpink;
+    width: 150px;
 }
